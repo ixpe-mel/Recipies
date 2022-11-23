@@ -1,7 +1,7 @@
 #Ingredients
-- Avocado
-- Lime
-- Salt
+- Avocado(£1)
+- Lime(£0.50)
+- Salt(£0.10)
 
 
 #Method
